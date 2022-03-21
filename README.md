@@ -16,10 +16,12 @@
 |---|---|----| ---|
 |[2585_경비행기](https://github.com/halucinor/Algorithm/blob/main/BOJ/%5BBOJ%5D2585_%EA%B2%BD%EB%B9%84%ED%96%89%EA%B8%B0.cpp)| **🥇2** | Binary Search, BFS, DFS| |
 |[2212_센서](https://github.com/halucinor/Algorithm/blob/main/BOJ/%5BBOJ%5D2212_%EC%84%BC%EC%84%9C.cpp)| **🥇5** | Greedy, Sort| |
-|[10162_전자레인지](https://github.com/halucinor/Algorithm/blob/main/BOJ/%5BBOJ%5D10162_%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80.cpp)|**🥉4** | Greedy | |
-|[2930_가위바위보](https://github.com/halucinor/Algorithm/blob/main/BOJ/%5BBOJ%5D2930_%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4.cpp)| **🥉2** | Greedy, brute force | |
+|[2293_동전1](https://github.com/halucinor/Algorithm/blob/main/BOJ/%5BBOJ%5D2293_%EB%8F%99%EC%A0%841.cpp)| **🥇5** | DP| |
 |[1541_잃어버린 괄호](https://github.com/halucinor/Algorithm/blob/main/BOJ/%5BBOJ%5D1541_%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0_%EA%B4%84%ED%98%B8.cpp)| **🥈2** | Greedy| |
 |[1012_유기농_배추](https://github.com/halucinor/Algorithm/blob/main/BOJ/%5BBOJ%5D1012_%EC%9C%A0%EA%B8%B0%EB%86%8D_%EB%B0%B0%EC%B6%94.cpp)| **🥈2** | BFS, DFS| |
+|[2579_계단_오르기](https://github.com/halucinor/Algorithm/blob/main/BOJ/%5BBOJ%5D2579_%EA%B3%84%EB%8B%A8_%EC%98%A4%EB%A5%B4%EA%B8%B0.cpp)| **🥈2** | DP| |
+|[10162_전자레인지](https://github.com/halucinor/Algorithm/blob/main/BOJ/%5BBOJ%5D10162_%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80.cpp)|**🥉4** | Greedy | |
+|[2930_가위바위보](https://github.com/halucinor/Algorithm/blob/main/BOJ/%5BBOJ%5D2930_%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4.cpp)| **🥉2** | Greedy, brute force | |
 
 ---
 ### Programmers
