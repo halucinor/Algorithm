@@ -1,9 +1,15 @@
 # Algorithm
 
-알고리즘 문제 풀이 저장소
+**알고리즘 문제 풀이 저장소**
 
-![C++](https://img.shields.io/badge/-C++-000000C?style=flat&logo=C%2B%2B)
+<div align = "center">
+  <img src="https://camo.githubusercontent.com/96deb9410f82a396ee353915212bd06c6c26a6e745ca740e61f6b2b1d4dec27f/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d68616c7563696e6f72" height=160/>
+  <img src="https://mazandi.herokuapp.com/api?handle=halucinor&theme=cold" height=160/>
+</div>
 
+## Solved with..
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ----
 ## 문제 목록
 
