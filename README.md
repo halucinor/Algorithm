@@ -33,8 +33,15 @@
 ![LV3](https://img.shields.io/badge/-LV3-orange?style=flat)
 ![LV4](https://img.shields.io/badge/-LV4-red?style=flat)
 
-| 문제 | 난이도 |유형 | 설명 |
-|---|---|----| ---|
-|[가장 큰 정사각형 찾기](https://github.com/halucinor/Algorithm/blob/main/Programmers/%5Bprogrammers%5D%EA%B0%80%EC%9E%A5%ED%81%B0%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%EC%B0%BE%EA%B8%B0.cpp)| ![LV2](https://img.shields.io/badge/-LV2-yellow?style=flat) | DP | |
-|[단속카메라](https://github.com/halucinor/Algorithm/blob/main/Programmers/%5Bprogrammers%5D%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.cpp)| ![LV3](https://img.shields.io/badge/-LV3-orange?style=flat) | Greedy, Sort | |
-|[최소값 만들기](https://github.com/halucinor/Algorithm/blob/main/Programmers/%5Bprogrammers%5D%EC%B5%9C%EC%86%8C%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)| ![LV2](https://img.shields.io/badge/-LV2-yellow?style=flat) | Greedy | |
+| 문제                                                     | 난이도                                                          | 유형           | 설명  |
+|--------------------------------------------------------|--------------------------------------------------------------|--------------|-----|
+| [가장 큰 정사각형 찾기](Programmers/[programmers]가장큰정사각형찾기.cpp) | ![LV2](https://img.shields.io/badge/-LV2-yellow?style=flat)  | DP           |     |
+| [단속카메라](Programmers/[programmers]단속카메라.cpp)            | ![LV3](https://img.shields.io/badge/-LV3-orange?style=flat)  | Greedy, Sort |     |
+| [최소값 만들기](Programmers/[programmers]최소값_만들기.cpp)        | ![LV2](https://img.shields.io/badge/-LV2-yellow?style=flat)  | Greedy       |     |
+| [디스크컨트롤러](Programmers/src/디스크컨트롤러/Solution.java)       | ![LV3](https://img.shields.io/badge/-LV3-orange?style=flat)  | Simulation   |     |
+| [K번째수](Programmers/src/K번째수/Solution.java)             | ![LV1](https://img.shields.io/badge/-LV1-success?style=flat) | Sort         |     |
+| [가장 큰수](Programmers/src/가장큰수/Solution.java)            | ![LV2](https://img.shields.io/badge/-LV2-yellow?style=flat)  | sort         |     |
+| [기능개발](Programmers/src/기능개발/Solution.java)             | ![LV2](https://img.shields.io/badge/-LV2-yellow?style=flat)  | Queue        |     |
+| [사각형좌표찾기](Programmers/src/사전테스트/Solution.java)         | ![LV1](https://img.shields.io/badge/-LV1-success?style=flat) | bitMask      |     |
+| [완주하지못한선수](Programmers/src/완주하지못한선수/Solution.java)     | ![LV1](https://img.shields.io/badge/-LV1-success?style=flat) | Map          |     |
+| [입국심사](Programmers/src/입국심사/Solution.java)             | ![LV3](https://img.shields.io/badge/-LV3-orange?style=flat)  | DP           |     |
