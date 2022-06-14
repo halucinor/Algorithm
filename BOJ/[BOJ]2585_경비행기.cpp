@@ -1,10 +1,10 @@
 /*
-	Baekjoon Online Judge
-	Problem number : 2585
-	Link : https://www.acmicpc.net/problem/2585
-	Author : LibertBaek
-	Mail : halucinor0@gmail.com
-*/
+  	Baekjoon Online Judge
+  	Problem number : 2585
+  	Link : https://www.acmicpc.net/problem/2585
+  	Author : LibertBaek
+  	Mail : halucinor0@gmail.com
+  */
 
 #include <iostream>
 #include <vector>
