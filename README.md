@@ -37,6 +37,8 @@
 | [5430_AC](BOJ/src/AC_5430/Main.java)               | **🥇5** | simulation              |  |
 | [2960_에라토스테네스의체](BOJ/src/에라토스테네스의체_2960/Main.java) | **🥈4** | math                    |  |
 | [2638_치즈](BOJ/src/치즈_2638/Main.java)               | **🥇3** | bfs, simulation         |  |
+| [10799_쇠막대기](BOJ/src/쇠막대기_10799/Main.java)         | **🥈3** | stack                   |  |
+| [2164_카드2](BOJ/src/카드2_2164/Main.java)             | **🥈4** | queue                   | |
 | [1966_프린터큐](BOJ/src/프린터큐_1966/Main.java)             | **🥈3** | queue, simulation       |  |
 | [1202_보석도둑](BOJ/src/보석도둑_1202/Main.java)             | **🥇2** | sort, priority queue       |  |
 
