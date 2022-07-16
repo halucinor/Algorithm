@@ -10,6 +10,7 @@
 ## Solved with..
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ----
 ## 문제 목록
 
@@ -34,14 +35,16 @@
 | [1504_특정한_최단_경로](BOJ/src/특정한최단경로_1504/Main.java)   | **🥇4** | dijkstra                |     |
 | [1041_주사위](BOJ/src/주사위_1041/Main.java)             | **🥇5** | greedy                  | 재시도 |
 | [1826_연료채우기](BOJ/src/연료채우기_1826/Main.java)         | **🥇3** | greedy                  | 재시도 |
-| [5430_AC](BOJ/src/AC_5430/Main.java)               | **🥇5** | simulation              |  |
-| [2960_에라토스테네스의체](BOJ/src/에라토스테네스의체_2960/Main.java) | **🥈4** | math                    |  |
-| [2638_치즈](BOJ/src/치즈_2638/Main.java)               | **🥇3** | bfs, simulation         |  |
-| [10799_쇠막대기](BOJ/src/쇠막대기_10799/Main.java)         | **🥈3** | stack                   |  |
-| [2164_카드2](BOJ/src/카드2_2164/Main.java)             | **🥈4** | queue                   | |
-| [1966_프린터큐](BOJ/src/프린터큐_1966/Main.java)             | **🥈3** | queue, simulation       |  |
-| [1202_보석도둑](BOJ/src/보석도둑_1202/Main.java)             | **🥇2** | sort, priority queue       |  |
-
+| [5430_AC](BOJ/src/AC_5430/Main.java)               | **🥇5** | simulation              |     |
+| [2960_에라토스테네스의체](BOJ/src/에라토스테네스의체_2960/Main.java) | **🥈4** | math                    |     |
+| [2638_치즈](BOJ/src/치즈_2638/Main.java)               | **🥇3** | bfs, simulation         |     |
+| [10799_쇠막대기](BOJ/src/쇠막대기_10799/Main.java)         | **🥈3** | stack                   |     |
+| [2164_카드2](BOJ/src/카드2_2164/Main.java)             | **🥈4** | queue                   |     |
+| [1966_프린터큐](BOJ/src/프린터큐_1966/Main.java)           | **🥈3** | queue, simulation       |     |
+| [1202_보석도둑](BOJ/src/보석도둑_1202/Main.java)           | **🥇2** | sort, priority queue    |     |
+| [17940_지하철](BOJ/src/지하철_17940/Main.java)           | **🥇2** | dijkstra                | 재시도 |
+| [2565_전깃줄](BOJ/src/전깃줄_2565/Main.java)             | **🥇2** | dp                | 재시도 |
+| [11779_최소비용구하기2](BOJ/src/최소비용구하기2_11779/Main.java)       | **🥇3** | dijkstra                |  |
 
 -----
 ### Programmers
